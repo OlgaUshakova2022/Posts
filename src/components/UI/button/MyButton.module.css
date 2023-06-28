@@ -1,0 +1,13 @@
+.myBtn{
+    padding: 5px 15px;
+   color: #525c0a;
+    font-size: 14px;
+    background: transparent;
+    background-color: #c2cd75;
+    border: 1px solid teal;
+    cursor: pointer;
+}
+.page__current{
+    border: 2px solid orange;
+    font-weight: bold;
+  }
